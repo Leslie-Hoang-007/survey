@@ -1,0 +1,4 @@
+
+The raw data set we used is IBM HR Analytics Employee Attrition & Performance. 
+
+Raw data set can be retrived from the following link: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
