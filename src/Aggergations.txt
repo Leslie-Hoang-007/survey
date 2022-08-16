@@ -1,0 +1,7 @@
+From the transformed data the follow aggregations have been applied.
+
+1. Two table for sales people with "attriton" and "non-attrition". Each table contains the SUM of the respective sales persons.
+
+2. Three tables for all sales people, sales people with attriton, and sales people without attrition. Each table contains column for the following aggergations “average_monthly_income”, “min_monthly_income”, and “max_monthly_income”.
+
+3. Two table for sales people with "attriton" and "non-attrition". With the aggergation of "Monthly income" and "Count".

@@ -1,0 +1,6 @@
+The following transformation has been applied to the data.
+
+1. Select columns: Attrition, Department, JobSatisfaction & MonthlyIncome
+2. Round MonthlyIncome to nearest 1000
+3. Filter data to only look at employees in "Sales Department"
+4. Order the data by "JobSastifaction" from highest to lowest
